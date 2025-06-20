@@ -111,12 +111,6 @@ The visualization were made using Tableau.
 
 ![MARS Weather](mars_weather.png)
 
-
-## Authors
-
-- [@Onnamission](https://www.github.com/Onnamission)
-
-
 ## Acknowledgements
 
  - [Dataset](https://data.world/the-pudding/mars-weather)
