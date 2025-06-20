@@ -111,12 +111,6 @@ The visualization were made using Tableau.
 
 ![MARS Weather](mars_weather.png)
 
-## 🔗 Links
-[![TABLEAU](https://img.shields.io/badge/tableau-orange?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/aditya.kakde)
-
-## Disclaimer
-
-If you are using this repository, acknowledging it is important.
 
 ## Authors
 
