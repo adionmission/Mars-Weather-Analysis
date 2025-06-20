@@ -1,5 +1,9 @@
 # Mars Weather Analysis
 
+![GitHub License](https://img.shields.io/github/license/adionmission/Mars-Weather-Analysis)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Mars-Weather-Analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Mars-Weather-Analysis)
+
 ![MARS Weather](Images/mars_weather_wallpaper.jpg)
 
 Analyzing the changes in weather on Mars.
