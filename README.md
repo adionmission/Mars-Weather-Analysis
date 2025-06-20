@@ -13,7 +13,7 @@ Analyzing the changes in weather on Mars.
 ## Download
 
 ```bash
-  git clone https://github.com/Onnamission/Mars-Weather-Analysis.git
+  git clone https://github.com/adionmission/Mars-Weather-Analysis.git
 ```
 
 ## About
